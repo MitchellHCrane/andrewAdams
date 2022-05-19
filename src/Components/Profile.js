@@ -26,9 +26,7 @@ function Profile() {
         </div>
         <div>
           <h1 className="profileName">Andrew Adams</h1>
-          <h2 className="NMLS">
-            Realtor®, Owner and Principal Broker (NMLS #)
-          </h2>
+          <h2 className="NMLS">Realtor®, Owner and Principal Broker</h2>
           <p className="profileP">
             Hello! I’m Andrew, I look forward to helping you along your home
             buying experience. I’ve provided a few useful links to get you

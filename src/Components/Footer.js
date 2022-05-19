@@ -17,11 +17,8 @@ function Footer() {
           </p>
         </div>
         <div className="footerGridItem">
-          <h3 className="footerH3">License Info</h3>
-          <p className="footerP">Andrew Adams (NMLS #)</p>
-          <p className="footerP">
-            Regulated by the Colorado Division of Real Estate NMLS #1843
-          </p>
+          <h3 className="footerH3">Realtor®</h3>
+          <p className="footerP">Andrew Adams</p>
         </div>
         <div className="footerGridItem">
           <h3 className="footerH3">Address</h3>
