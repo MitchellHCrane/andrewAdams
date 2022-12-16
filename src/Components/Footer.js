@@ -19,6 +19,9 @@ function Footer() {
         <div className="footerGridItem">
           <h3 className="footerH3">Realtor®</h3>
           <p className="footerP">Andrew Adams</p>
+          <p className="footerP">
+            Regulated by State of Utah Division of Real Estate NMLS#1843
+          </p>
         </div>
         <div className="footerGridItem">
           <h3 className="footerH3">Address</h3>
